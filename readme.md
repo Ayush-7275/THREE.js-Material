@@ -3,6 +3,7 @@
 A small WebGL playground exploring physically-based transmissive materials — real glass refraction, iridescent thin-film coatings, and HDR environment lighting, all rendered in real time in the browser.
 
 https://github.com/user-attachments/assets/a2606d11-d1c6-45eb-ac9f-de78af1b6b4d
+
 https://github.com/user-attachments/assets/577ab1be-5749-4654-8f3c-e580e45585de
 <!-- Replace with your actual demo GIF/video thumbnail, or embed a link below -->
 
